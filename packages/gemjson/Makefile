@@ -8,7 +8,7 @@ PKG_RELEASE:=1
  
 # Source settings (i.e. where to find the source codes)
 # This is a custom variable, used below
-SOURCE_DIR:=/home/chris/testing/openwrt/packages/gemjson
+SOURCE_DIR:=/home/chris/git/github.com/cpswan/OpenWrt-test-packages/packages/gemjson
  
 include $(INCLUDE_DIR)/package.mk
  
